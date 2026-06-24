@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-public class Main {
+public class LOSS {
 
     public static int lengthOfLongestSubstring(String s) {
         HashSet<Character> set = new HashSet<>();
