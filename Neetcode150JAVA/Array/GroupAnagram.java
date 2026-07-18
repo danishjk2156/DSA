@@ -1,4 +1,3 @@
-package Neetcode150JAVA.Array;
 import java.util.*;
 
 public class GroupAnagram {
